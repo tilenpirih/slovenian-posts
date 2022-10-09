@@ -188,6 +188,7 @@
     { "postNumber": 1000, "town": "Ljubljana" },
     { "postNumber": 1231, "town": "Ljubljana - Črnuče" },
     { "postNumber": 1261, "town": "Ljubljana - Dobrunje" },
+    { "postNumber": 1001, "town": "Ljubljana - P.P." },
     { "postNumber": 1260, "town": "Ljubljana - Polje" },
     { "postNumber": 1210, "town": "Ljubljana - Šentvid" },
     { "postNumber": 1211, "town": "Ljubljana - Šmartno" },
